@@ -10,6 +10,9 @@ Hello my name is Pakorn Loahakanniyom (Ryu). I'm a sophomore in Software and Kno
 Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927.svg?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
 - ### Frameworks:
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![ReactJS](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
+- ### Tools:
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
+  
 
 -----------
 ## Card stats
