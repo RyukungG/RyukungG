@@ -1,6 +1,6 @@
 ## Hello World
 
-Hello my name is Pakorn Loahakanniyom (Ryu). I'm a sophomore in Software and Knowledge Engineering at Kasetsart University.
+Hello my name is Pakorn Loahakanniyom (Ryu). I'm a fourth year student in Software and Knowledge Engineering at Kasetsart University.
 
 ## My Programming skills:
 - ### Programming languages:
